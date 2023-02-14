@@ -1,2 +1,2 @@
 # ait
-WelCome To Achievers of Information Technology
+# Welcome To Achievers of Information Technology
